@@ -3,12 +3,12 @@
     font-family: "MrsEavesRoman Regular";
     font-style: normal;
     font-weight: 500;
-    src: local("MrsEavesRoman"), local('MrsEavesRoman'), url("./MrsEavesRoman-Regular.ttf") format('truetype');
+    src: url("./MrsEavesRoman-Regular.ttf") format('truetype');
   }
 
   @font-face {
     font-family: "MrsEavesRoman";
     font-style: normal;
     font-weight: 500;
-    src: local("MrsEavesRoman"), local('MrsEavesRoman'), url("./MrsEavesRoman-Regular.ttf") format('truetype');
+    src: url("./MrsEavesRoman-Regular.ttf") format('truetype');
   }
