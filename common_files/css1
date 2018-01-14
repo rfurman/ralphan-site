@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: "MrsEavesItalic Regular";
+    font-style: normal;
+    font-weight: 500;
+    src: local("MrsEavesItalic"), local('MrsEavesItalic'), url("./MrsEavesItalic-Regular.ttf") format('truetype');
+  }
+
+  @font-face {
+    font-family: "MrsEavesItalic";
+    font-style: normal;
+    font-weight: 500;
+    src: local("MrsEavesItalic"), local('MrsEavesItalic'), url("./MrsEavesItalic-Regular.ttf") format('truetype');
+  }
