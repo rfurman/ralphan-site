@@ -241,14 +241,14 @@
     font-family: "MrsEavesSmallCaps Regular";
     font-style: normal;
     font-weight: 500;
-    src: local("MrsEavesSmallCaps"), local('MrsEavesSmallCaps'), url("./mescegular.ttf") format('truetype');
+    src: local("MrsEavesSmallCaps"), local('MrsEavesSmallCaps'), url("./mescregular.ttf") format('truetype');
   }
 
   @font-face {
     font-family: "MrsEavesSmallCaps";
     font-style: normal;
     font-weight: 500;
-    src: local("MrsEavesSmallCaps"), local('MrsEavesSmallCaps'), url("./mescrgular.ttf") format('truetype');
+    src: local("MrsEavesSmallCaps"), local('MrsEavesSmallCaps'), url("./mescregular.ttf") format('truetype');
   }
 
   @font-face {
