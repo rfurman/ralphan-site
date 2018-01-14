@@ -1,0 +1,14 @@
+
+  @font-face {
+    font-family: "MrsEavesSmallCaps Regular";
+    font-style: normal;
+    font-weight: 500;
+    src: local("MrsEavesSmallCaps"), local('MrsEavesSmallCaps'), url("https://d3jpwrui3eswtl.cloudfront.net/mrseavessmallcaps/MrsEavesSmallCaps-Regular.ttf") format('truetype');
+  }
+
+  @font-face {
+    font-family: "MrsEavesSmallCaps";
+    font-style: normal;
+    font-weight: 500;
+    src: local("MrsEavesSmallCaps"), local('MrsEavesSmallCaps'), url("https://d3jpwrui3eswtl.cloudfront.net/mrseavessmallcaps/MrsEavesSmallCaps-Regular.ttf") format('truetype');
+  }

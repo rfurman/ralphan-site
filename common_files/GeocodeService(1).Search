@@ -1,0 +1,129 @@
+/**/_xdc_._peakvh && _xdc_._peakvh( {
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sigmund Stern Recreation Grove",
+               "short_name" : "Sigmund Stern Recreation Grove",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "Sloat Boulevard",
+               "short_name" : "Sloat Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lakeshore",
+               "short_name" : "Lakeshore",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94132",
+               "short_name" : "94132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sigmund Stern Recreation Grove, Sloat Blvd, San Francisco, CA 94132, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7353053,
+               "lng" : -122.4762135
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7366542802915,
+                  "lng" : -122.4748645197085
+               },
+               "southwest" : {
+                  "lat" : 37.7339563197085,
+                  "lng" : -122.4775624802915
+               }
+            }
+         },
+         "place_id" : "ChIJ7Xn7t5d9j4ARQRqbedTOces",
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wawona Street",
+               "short_name" : "Wawona St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lakeshore",
+               "short_name" : "Lakeshore",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "San Francisco",
+               "short_name" : "SF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Francisco County",
+               "short_name" : "San Francisco County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94132",
+               "short_name" : "94132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wawona St, San Francisco, CA 94132, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7361644,
+               "lng" : -122.478177
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7375133802915,
+                  "lng" : -122.4768280197085
+               },
+               "southwest" : {
+                  "lat" : 37.7348154197085,
+                  "lng" : -122.4795259802915
+               }
+            }
+         },
+         "place_id" : "ChIJIzHUu5d9j4ARtTe8PtcVMuk",
+         "types" : [ "establishment", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}
+ )
